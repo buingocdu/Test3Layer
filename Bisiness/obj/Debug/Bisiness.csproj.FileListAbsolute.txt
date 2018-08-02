@@ -1,0 +1,14 @@
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Bisiness\bin\Debug\Bisiness.exe.config
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Bisiness\bin\Debug\Bisiness.exe
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Bisiness\bin\Debug\Bisiness.pdb
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Bisiness\bin\Debug\DAL.exe
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Bisiness\bin\Debug\DAL.pdb
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Bisiness\bin\Debug\DAL.exe.config
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Bisiness\obj\Debug\Bisiness.csprojAssemblyReference.cache
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Bisiness\obj\Debug\Bisiness.Properties.Resources.resources
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Bisiness\obj\Debug\Bisiness.csproj.GenerateResource.cache
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Bisiness\obj\Debug\Bisiness.csproj.CoreCompileInputs.cache
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Bisiness\obj\Debug\Bisiness.csproj.CopyComplete
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Bisiness\obj\Debug\Bisiness.exe
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Bisiness\obj\Debug\Bisiness.pdb
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Bisiness\obj\Debug\Bisiness.Form2.resources

@@ -1,0 +1,17 @@
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Presentation\bin\Debug\Presentation.exe
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Presentation\bin\Debug\Presentation.pdb
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Presentation\bin\Debug\Bisiness.exe
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Presentation\bin\Debug\DAL.exe
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Presentation\bin\Debug\Bisiness.pdb
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Presentation\bin\Debug\Bisiness.exe.config
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Presentation\bin\Debug\DAL.pdb
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Presentation\bin\Debug\DAL.exe.config
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Presentation\obj\Debug\Presentation.exe
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\Presentation\obj\Debug\Presentation.pdb

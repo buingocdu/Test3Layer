@@ -1,0 +1,9 @@
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\DAL\bin\Debug\DAL.exe.config
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\DAL\bin\Debug\DAL.exe
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\DAL\bin\Debug\DAL.pdb
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\DAL\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\DAL\obj\Debug\DataAccess.csproj.GenerateResource.cache
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\DAL\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\DAL\obj\Debug\DAL.exe
+C:\Users\bui.ngoc.du\source\repos\Test3Layer\DAL\obj\Debug\DAL.pdb
